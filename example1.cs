@@ -1,3 +1,4 @@
+// Reference : https://msdn.microsoft.com/en-us/library/aa288453(v=vs.71).aspx
 using System;
 using System.Collections.Generic;
 using System.Linq;
